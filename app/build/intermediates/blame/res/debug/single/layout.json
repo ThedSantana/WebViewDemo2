@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/guidry/StudioProjects/WebViewDemo2/app/build/intermediates/res/merged/debug/layout/webscreen.xml",
+        "source": "/home/guidry/StudioProjects/WebViewDemo2/app/src/main/res/layout/webscreen.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/WebViewDemo2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/guidry/StudioProjects/WebViewDemo2/app/src/main/res/layout/activity_main.xml"
+    }
+]
